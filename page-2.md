@@ -1,9 +1,11 @@
 # Page 2
 
-
+{% hint style="warning" %}
+This is a warning
+{% endhint %}
 
 {% hint style="success" %}
-
+Yay! Success
 {% endhint %}
 
 {% api-method method="get" host="" path="" %}
