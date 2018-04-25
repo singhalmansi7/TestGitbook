@@ -2,7 +2,7 @@
 description: This is the initial page for test purposes
 ---
 
-# Introduction
+# Initial Page
 
 ## Getting Super Powers
 
@@ -24,8 +24,4 @@ echo 'You got to trust me on this, I saved the world'
 ```
 
 Removed some content
-
-
-
-## New Heading 
 
